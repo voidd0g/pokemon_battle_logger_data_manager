@@ -1,0 +1,28 @@
+[
+	{	
+		"pokedex": 1007,
+		"name": "コライドン",
+		"type1": 7,
+		"type2": 15,
+		"weight10": 3030,
+		"bshp": 100,
+		"bsatk": 135,
+		"bsdef": 115,
+		"bssat": 85,
+		"bssdf": 100,
+		"bsspd": 135
+	},
+	{	
+		"pokedex": 1008,
+		"name": "ミライドン",
+		"type1": 5,
+		"type2": 15,
+		"weight10": 2400,
+		"bshp": 100,
+		"bsatk": 85,
+		"bsdef": 100,
+		"bssat": 135,
+		"bssdf": 115,
+		"bsspd": 135
+	}
+]
